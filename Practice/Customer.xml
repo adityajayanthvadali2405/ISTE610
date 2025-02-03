@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Customers.css" type="text/css"?>
+<Customers>
+    <Customer>
+        <Name>Aditya Jayanth Vadali</Name>
+        <Address>59 Black Creek Rd</Address>
+        <Phone type = "mobile">585-957-2989</Phone>
+        <Vehicles>
+            <Vehicle>
+                <Year>2021</Year>
+                <Make>Toyota</Make>
+                <Model>Rav4</Model>
+                <Edition>LE</Edition>
+            </Vehicle>
+        </Vehicles>
+    </Customer>
+    <Customer>
+        <Name>Rugved Joshi</Name>
+        <Address>59 Black Creek Rd</Address>
+        <Phone type = "mobile">585-957-9657</Phone>
+        <Vehicles>
+            <Vehicle>
+                <Year>2021</Year>
+                <Make>Toyota</Make>
+                <Model>Rav4</Model>
+                <Edition>LE</Edition>
+            </Vehicle>
+        </Vehicles>
+    </Customer>    
+</Customers>

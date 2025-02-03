@@ -1,0 +1,8 @@
+<!ELEMENT menu (item+)>
+<!ATTLIST menu 
+    xmlns:xsi CDATA #FIXED "http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation CDATA #REQUIRED>
+<!ELEMENT item (name, price)>
+<!ATTLIST item id ID #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT price (#PCDATA)>

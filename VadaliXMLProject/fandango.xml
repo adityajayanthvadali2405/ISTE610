@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fandango-movie-times date="2023-02-01" location="Rochester, NY">
+    <theater>
+        <name>Cinemark Tinseltown USA and IMAX</name>
+        <address>2291 Buffalo Road, Rochester, NY 14624</address>
+        <movies>
+            <movie>
+                <title>Fear</title>
+                <year>2023</year>
+                <rating>R</rating>
+                <runtime>1 hr 25 min</runtime>
+                <genres>
+                    <genre>Horror</genre>
+                    <genre>Mystery and Thriller</genre>
+                </genres>
+                <showtimes>
+                    <showtime>12:15p</showtime>
+                    <showtime>2:45p</showtime>
+                    <showtime>5:15p</showtime>
+                    <showtime>7:45p</showtime>
+                    <showtime>10:15p</showtime>
+                </showtimes>
+                <screening-type>Standard</screening-type>
+                <features>
+                    <feature>Reserved seating</feature>
+                    <feature>Luxury Lounger Recliners</feature>
+                </features>
+                <image-filename>fear.jpg</image-filename>
+            </movie>
+            <movie>
+                <title>80 For Brady Ladies Night Out</title>
+                <year>2023</year>
+                <rating>Not Rated</rating>
+                <runtime>1 hr 38 min</runtime>
+                <genres>
+                    <genre>Comedy</genre>
+                    <genre>Concert/Special Events</genre>
+                </genres>
+                <showtimes>
+                    <showtime>7:00p</showtime>
+                </showtimes>
+                <screening-type>Standard</screening-type>
+                <features>
+                    <feature>Reserved seating</feature>
+                    <feature>Luxury Lounger Recliners</feature>
+                </features>
+                <image-filename>80-for-brady.jpg</image-filename>
+            </movie>
+        </movies>
+    </theater>
+    
+    <theater>
+        <name>Regal Greece Ridge</name>
+        <address>176 Greece Ridge Center Dr, Rochester, NY 14626</address>
+        <movies>
+            <movie>
+                <title>Infinity Pool</title>
+                <year>2023</year>
+                <rating>R</rating>
+                <runtime>1 hr 57 min</runtime>
+                <genres>
+                    <genre>Horror</genre>
+                    <genre>Mystery and Thriller</genre>
+                    <genre>Sci-Fi/Fantasy</genre>
+                </genres>
+                <showtimes>
+                    <showtime>1:25p</showtime>
+                    <showtime>4:20p</showtime>
+                    <showtime>7:15p</showtime>
+                    <showtime>10:15p</showtime>
+                </showtimes>
+                <screening-type>Standard</screening-type>
+                <features>
+                    <feature>Reserved seating</feature>
+                    <feature>Luxury Lounger Recliners</feature>
+                </features>
+                <image-filename>infinity-pool.jpg</image-filename>
+            </movie>
+            <movie>
+                <title>BTS: Yet To Come in Cinemas</title>
+                <year>2023</year>
+                <rating>Not Rated</rating>
+                <genres>
+                    <genre>Concert/Special Events</genre>
+                    <genre>Music/Performing Arts</genre>
+                </genres>
+                <showtimes>
+                    <showtime>5:00p</showtime>
+                </showtimes>
+                <screening-type>Standard</screening-type>
+                <features>
+                    <feature>Reserved seating</feature>
+                    <feature>No passes</feature>
+                    <feature>English Subtitles</feature>
+                    <feature>Recliner Seats</feature>
+                    <feature>Korean Language</feature>
+                </features>
+                <image-filename>bts-yet-to-come.jpg</image-filename>
+            </movie>
+        </movies>
+    </theater>
+</fandango-movie-times>

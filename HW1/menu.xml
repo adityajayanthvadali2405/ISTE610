@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE menu SYSTEM "menu.dtd">
+<?xml-stylesheet href="menu.css" type="text/css"?>
+<menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/home/deathstar/Desktop/ISTE610/HW1/menuschema.xsd">
+    <item id="i1">
+        <name>Hamburger</name>
+        <price>$5.75</price>
+    </item>
+    <item id="i2">
+        <name>Hot Dog</name>
+        <price>$3.50</price>
+    </item>
+    <item id="i3">
+        <name>Cola Drink</name>
+        <price>$2.25</price>
+    </item>
+</menu>

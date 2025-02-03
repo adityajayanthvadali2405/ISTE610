@@ -1,0 +1,26 @@
+menu {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    color: #ff00ff;
+}
+
+menu > item {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    background-color: #ffff00;
+}
+
+menu > item > name {
+    font-size: 1.2em;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+menu > item > price {
+    font-size: 1em;
+    color: #023500;
+}

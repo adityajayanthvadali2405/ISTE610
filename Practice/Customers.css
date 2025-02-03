@@ -1,0 +1,8 @@
+Customers{
+    font-family:'Times New Roman', Times, serif;
+    color:purple
+}
+Name, Address, Phone, Vehicle{
+    display: block;
+    background-color: lightblue;
+}
